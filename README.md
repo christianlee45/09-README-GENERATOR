@@ -25,6 +25,9 @@ install node to begin project
 ## CONTRIBUTING👨‍🏫
  Christian singleton
 
-
 ## TESTS🧪🧪
 ✏️ running node-v to check installation and npm install
+
+## EMAIL
+Leesingleton.cs@gmail.com
+
