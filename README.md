@@ -11,6 +11,7 @@
 - [Usage](#USAGE)
 - [Contributing](#CONTRIBUTING)
 - [Tests](#TESTS)
+- [Email](#EMAIL)
 
 
 
